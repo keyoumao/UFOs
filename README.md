@@ -1,4 +1,5 @@
 # UFOs
+
 HTML and JavaScript on Dynamic web applications for presenting UFO data table.
 
 ## Challenge
@@ -14,4 +15,12 @@ HTML and JavaScript on Dynamic web applications for presenting UFO data table.
 - HTML
 - JavaScript
 
-Please find the app.js and index.html files for more information.
+## Recommendations
+
+- **We could add more filters such as "*durationMinutes*" and keyword searching in "*comments*" using regular expression.**
+
+Please find the https://github.com/keyoumao/UFOs/blob/master/static/js/app.js and https://github.com/keyoumao/UFOs/blob/master/index.html files for more information.
+
+A Screenshot of the webpage has been provided:
+
+![alt text](https://github.com/keyoumao/UFOs/blob/master/Capture.PNG)
